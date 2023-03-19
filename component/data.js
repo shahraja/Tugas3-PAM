@@ -1,0 +1,48 @@
+const DataPenerbangan = [
+  [
+    "Bandung",
+    "Lampung",
+    "Jawa",
+    "Bali",
+    "Aceh",
+    "Jakarta",
+    "Kalimantan",
+    "Maluku",
+    "Banten",
+    "Palembang",
+  ],
+  [
+    "Lampung",
+    "Bandung",
+    "Palembang",
+    "Jawa",
+    "Kalimantan",
+    "Maluku",
+    "Banten",
+    "Jakarta",
+    "Bali",
+    "Aceh",
+  ],
+  [
+    "21 April 2023",
+    "21 April 2023",
+    "21 April 2023",
+    "21 April 2023",
+    "21 April 2023",
+    "21 April 2023",
+  ],
+  [
+    "Elang Air",
+    "Wings Air",
+    "Majapahit Air",
+    "Elang Air",
+    "Wings Air",
+    "Majapahit Air",
+    "Wings Air",
+    "Elang Air",
+    "Wings Air",
+    "Majapahit Air",
+  ],
+];
+
+export default DataPenerbangan;
